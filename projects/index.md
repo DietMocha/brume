@@ -1,6 +1,20 @@
 ---
 layout: page
-title: About
+title: Projects
 ---
+bubbles
 
-Nothing yet :(
+blurb
+
+
+Hasbro
+
+floss thimble
+
+Iowa Liquor
+
+Caged beast
+
+Image recognition
+
+Smart Sims
