@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <article class="single row gutters">
@@ -7,3 +7,9 @@ layout: default
 
   {{ content }}
 </article>
+
+{% if page.title == "Home" %}
+<header class="fadeInLeft animated">
+{% else %}
+<header>
+{% endif %}
