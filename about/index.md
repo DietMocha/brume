@@ -3,4 +3,7 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+Finish that brand Statement :(
+
+
+Small blurb about history
