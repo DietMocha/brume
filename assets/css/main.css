@@ -111,7 +111,7 @@ dd {
 
 /*
 ================================================================================
-  Colour styles
+  Add color styles here https://www.quackit.com/css/css_color_codes.cfm for code
 ================================================================================
 */
 .azul a {
@@ -120,6 +120,14 @@ dd {
 
 .azul a:hover {
   color: #0F9EFB;
+}
+
+.royal a {
+  color: #A54CF3;
+}
+
+.royal a:hover{
+  color: #A54CF3;
 }
 
 .ruby a {

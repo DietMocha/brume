@@ -2,6 +2,8 @@
   {% for link in site.data.links %}
   {% if page.title == link.title %}
   <a href="{{ link.url }}" title="{{ link.title }}" class="current">{{ link.title }}</a>
+  <a href="/about/" title="Who I am" class="about">About</a>
+  <a href="/project/" title="Tinkering" class="project">About</a>
   {% else %}
   <a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a>
   {% endif %}
