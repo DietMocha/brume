@@ -1,6 +1,5 @@
 ---
 layout: blurb
-title: Info
 ---
 
 Hello,
