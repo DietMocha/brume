@@ -1,7 +1,8 @@
 <nav id="main-navigation">
   {% for link in site.data.links %}
   {% if page.title == link.title %}
-  <a href="{{ link.url }}" title="{{ link.title }}" class="current">{{ link.title }}</a>
+  <!-- Paradise City was {{ link.title }} -->
+  <a href="{{ link.url }}" title="Paradise City" class="current">{{ link.title }}</a>
   <a href="/about/" title="Who I am" class="about">About</a>
   <a href="/projects/" title="Tinkering" class="projects">Projects</a>
   {% else %}
