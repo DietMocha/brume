@@ -1,4 +1,3 @@
-layout: blurb
 title: Njume
 author: Lawrence Njume
 description: It's simple. It's easy to use. It's a Jekyll theme.
@@ -7,7 +6,7 @@ highlighter: null
 permalink: /:title
 
 url:
-baseurl:
+baseurl: https://www.linkedin.com/in/lawrence-njume/
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
