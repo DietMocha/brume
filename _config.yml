@@ -1,13 +1,15 @@
-title: Brume
-author: Aigars Dzerviniks
-description: It's simple. It's easy to use. It's a Jekyll theme.
+title: Njume
+author: Lawrence Njume
+description: I am excited about the field of machine learning and look forward to my future with it.
 
 highlighter: null
 permalink: /:https://dietmocha.github.io/blurb/
 
+# https://dietmocha.github.io/blurb/
+# https://www.linkedin.com/in/lawrence-njume/
 url:
 baseurl:
-
-# Custom options:
+blurb: http://dietmocha.github.io/blurb
+# Custom options pick here:
 # color_scheme: azul|ruby|amber|avocado
-# color_scheme: avocado
+color_scheme: royal
