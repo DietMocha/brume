@@ -4,6 +4,8 @@ title: Home
 ---
 
 <section class="archive">
+
+<h1 class="owner" data-text="Lawrence Njume">Lawrence Njume</h1>
 {% for post in site.posts %}
 {% unless post.next %}
 
@@ -13,6 +15,7 @@ title: Home
   {% endunless %}
 
   <div class="archive-item fadeInDown animated">
+    <h1 class="under" data-text="Lawrence">Lawrence</h1>
     <h2>{{ post.date | date: '%Y' }}</h2>
     <div>
 
@@ -36,7 +39,6 @@ title: Home
 {% endunless %}
 
   <article>
-    <h1 class="owner" data-text="Lawrence Njume">Lawrence Njume</h1>
     <a href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title }}</a>
     <div class="post-date">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B" }}</time>
