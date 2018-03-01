@@ -9,6 +9,7 @@ permalink: /:title
 # https://www.linkedin.com/in/lawrence-njume/
 url:
 baseurl:
+# {{site.blurb}} to call this link
 blurb: http://dietmocha.github.io/blurb
 # Custom options pick here:
 # color_scheme: azul|ruby|amber|avocado

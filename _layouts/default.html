@@ -6,14 +6,14 @@
   <body>
     <main class="container {% if site.color_scheme %}{{ site.color_scheme }}{% else %}avocado{% endif %}">
       {% if page.title == "Home" %}
-      <header class="fadeInLeft animated">
+      <header class="fadeInLeft animated"></header>
       {% else %}
       <header>
       {% endif %}
         <div>
           <!--<a href="{{ site.url }}" id="logo" title="{{ site.title }}"
              style="background-image: url({{ '/assets/images/headshot.png' | relative_url }});"></a>-->
-             <a href="{{ site.blurb }}" id="logo" title="{{ site.title }}"
+             <a href="{{ site.blurb }}" id="logos" title="{{ site.title }}"
               style="background-image: url({{ '/assets/images/headshot.png' | relative_url }});"></a>
         </div>
 
