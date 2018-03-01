@@ -3,7 +3,7 @@ author: Lawrence Njume
 description: I am excited about the field of machine learning and look forward to my future with it.
 
 highlighter: null
-permalink: /:https://dietmocha.github.io/blurb/
+permalink: /:title
 
 # https://dietmocha.github.io/blurb/
 # https://www.linkedin.com/in/lawrence-njume/
