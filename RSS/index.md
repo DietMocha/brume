@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: RSS Feed
 ---
 
 Link to an RSS
