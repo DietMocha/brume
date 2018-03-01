@@ -5,9 +5,10 @@ description: It's simple. It's easy to use. It's a Jekyll theme.
 highlighter: null
 permalink: /:title
 
-url:
-baseurl: https://www.linkedin.com/in/lawrence-njume/
+# https://www.linkedin.com/in/lawrence-njume/
+url: https://dietmocha.github.io/blurb/
+baseurl:
 
-# Custom options:
+# Custom options pick here:
 # color_scheme: azul|ruby|amber|avocado
-# color_scheme: avocado
+color_scheme: royal
