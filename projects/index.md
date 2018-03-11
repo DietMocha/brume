@@ -2,18 +2,16 @@
 layout: page
 title: projects
 ---
-bubbles
-
 blurb
-
 
 Hasbro
 
-floss thimble
+floss thimble:
 
 Iowa Liquor
 
-Caged beast
+Caged beast:
+
 
 Image recognition
 
