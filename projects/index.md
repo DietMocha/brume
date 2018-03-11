@@ -1,5 +1,5 @@
 ---
-layout: Home
+layout: default
 title: projects
 ---
 blurb
