@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 ---
 Image recognition
 >My upcoming capstone at General Assembly. In simple terms, I am challenging myself to build a google translate for American Sign Language Images. My script will read images run it though a convolutional neural network
