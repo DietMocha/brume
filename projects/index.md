@@ -11,7 +11,7 @@ Loan Prediction | <a href="https://datahack.analyticsvidhya.com/contest/practice
 Iowa Liquor |
 >
 
-Auto binger |
+Auto binger | Backlog
 >I have recently started using Microsoft Rewards for Xbox. A system that feeds points back to players who use bing as their search browser once a day. However, I think we can all agree bing has a inferior search browser to google. To save myself from the labor of 'binging?' things daily and weeding though their advertisements. I am building an automated bot that does this for me once I am finished studying at General Assembly. I expect to be using Selenium to simulate a Microsoft Edge environment, web scraping to check my email for its spam mail, AirBnB's Airflow to automate the process to run daily during lunch, Rosetta Code to simulate a computer mouse and search browse the newsfeed, and Neural networks to enter guesses for bing quizzes. This will be a personal project to test some of the programs and packages I am passionate about learning, while also solving a mundane burden.
 
 HAS - Hasbro Stock Prediction | 2015
