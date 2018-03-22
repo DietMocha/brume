@@ -4,8 +4,8 @@ title: Travel
 ---
 Welcome to my Travels page. This is where I explain where I've been, how I get there, and what I've seen. I'll also be giving a guide for my methods, also linked with my referral codes if you appreciate the tips. I get a lot of the same questions riding an electric unicycle around, so i figured making a page would be easier to send people to.
 
-lennjume@gmail.com
 Please send me any questions you have and I'll be happy to answer them.
+lennjume@gmail.com
 
 * <a href='https://dietmocha.github.io/EUC/'>Electric Unicycles
 >There's a lot to say about EUCs. In fact, that link is my guide on it.
