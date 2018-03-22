@@ -20,7 +20,7 @@ It depends on what you're willing to invest initially when your buying. Of the b
 
 This is tough. You don't really grasp the range until you make the trek. I'll tell you that my longest travel was from NYC Penn Station all the way to Rutgers Newark non-stop cycling. Mind you, long range is only possible in warmer weather. That trip felt like 4 hours, which was killer on my feet in the last stretch. Google maps says 3 hours and 30 miles, but 20 mph the whole way was pushing it (I was going max speed at the start for to long). I should say your weight determines the range, and I am a steady 160 lbs. I should mention the scenic view traveling around Hudson and over the GWB. It's an experience I should tell you; especially the bridge.
 
-** How fast do you go? **
+**How fast do you go?**
 
 Is there a danger to going that fast?
 While I can't speak for the current generation. I limit myself because I've got an older model from when they first started coming out. The battery has a fail safe if you try going over max speed while on low battery. To protect the battery from overloading the machine is capable of shutting off if you try to push it to hard for to long. Not saying that it will definitely fail, but the chance is unnecessary and I'm not interested in <a href="https://youtu.be/TfKSORDxz2c?t=10m30s">falling</a> at 25 mph. Just no reason. A good rule of thumb for these I've found is ** Don't  be the reason a law is made. ** If you really felt a situation was getting out of your control, don't worry you'll adjust for next time.
