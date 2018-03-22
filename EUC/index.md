@@ -35,4 +35,4 @@ I live down the street from a small town grocery store and a lot of family owned
 
 **So where do I buy one?**
 
-I spent a long time traversing forums and reading site reviews and all my seaching lead me back to <a href="">this guy</a>.
+I spent a long time traversing forums and reading site reviews and all my searching lead me back to <a href="">this guy</a>.
