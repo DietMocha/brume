@@ -2,8 +2,9 @@
 layout: page
 title: My Electric Unicycle Compendium
 ---
+**My recommendations**
 
-First things first...
+I ride the GotWay mSuper v3. For those super worried about learning try the Segway Ninebot One (not s2 model). If I were to upgrade for NYC I would buy Inmotion v8. Consider waiting a few months. Gotway has just come out with their latest model the Tesla. Inmotion is coming out with the v10. Segway is coming out with the NineBot One Z.
 
 **Are you insane?** No.
 I just like a challenge, but it's really not as hard as it looks. I didn't know anything about unicycles and now I ride amongst the traffic in NYC better then the Citibikes.
