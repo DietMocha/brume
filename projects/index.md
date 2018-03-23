@@ -6,6 +6,10 @@ Image recognition | 2018
 
 >My upcoming capstone at General Assembly. In simple terms, I am challenging myself to build a google translate for American Sign Language Images. My script will read images run it though a convolutional neural network
 
+NYC - <a href= 'https://dietmocha.github.io/NYC-housing-2016-2017'>Visualizing My Future Home</a> |
+
+>For my first coding blog I decided to use a simple dataset, with a basic target. I am interested in finding a job in the city, and I think it is the perfect project for data science, what ever that city might end up being. It will further incorporate data from niche.com on safety rating; among other things.
+
 Loan Prediction | <a href="https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/lb?page=8">rank: 2197 user: lennjume</a>
 
 >With materials and a target from a <a href="https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/">Hackathon</a> we began to predict whether or not a person would be approved for a loan based on simple features. We had a 2 hour class challenge to score our submitted predictions. We thought it was more effective to pair programming, rather than each work on coding separately or together. It was actually the reason we won as I was the only individual reading the rules entirely and paying attention to banter and suggestions in the classroom. We won the deadline round with 76.4 from our mvp, because we were the only submission on time. We did however lose the best of round where we finished with 77.78 and lost to 78.4. Since there are 300 days left in the competition I will be continuing my analysis after GA graduation.
