@@ -1,4 +1,12 @@
+---
+layout: post
+title: First Hackathon
+---
+We just finished our first in class Hackathon to predict whether or not people are deserving of a loan, based on things like their sex, credit history, property area, education, and so on.
 
+The biggest challenge to stand out for my group in this mini code session was that we spent most of our time cleaning our data. In fact, we ended up winning the first round because our minimum viable product was reported correctly as appose to our classmates. It was a shut out at a 2%, but it really hammered home the significance of reporting correctly the first time, and allowing a decent amount of time to make sure your work wasn't for nothing.
+
+We mainly focused on self interpretation of the data, and RandomForest/Logistic for our models. Which scored a 76.4 and 77.78 respectively. We went column by column to account for missing values. While we were interested in imputation to fill in the gaps, but for our mvp we just brainstormed what the column was trying to say, and sometimes we made it a category by itself. Had we used imputation earlier we could have reached a 78.4 logistic score. We were also interested in using a voting classifier to create a supermodel, but alas we ran out of time. While I am satisfied with the experience a hackathon like this affords us, I plan on continuing with this challenge until I place higher then 2196/2500 on the leaderboards. The outlook is good since our logistic regression will rank 1262th.
 
 ```python
 import pandas as pd
@@ -205,12 +213,12 @@ train.Dependents.value_counts()
 ```python
 '''
 We did a little data cleaning by converting yes | no columns to 1 and 0.
-We ran into some missing data for this project and we weighed a few options. 
+We ran into some missing data for this project and we weighed a few options.
 * drop the data
 * self interperate (not ideal unless there are only a few simple .value_counts)
-* impute the data 
+* impute the data
 Unfortunately none of us knew how to impute data properly so we went with option 2.
-In hindsight imputing for a small amount of the dataset is better then interpriting it. 
+In hindsight imputing for a small amount of the dataset is better then interpriting it.
 We found on later assignments that imputing is not a good choice when it makes up over 30% of the data points.
 '''
 train.Gender = train.Gender.map(lambda x: 0 if x=='Female' else 1)
@@ -496,7 +504,7 @@ cross_val_score(lr,X,y)
 ```python
 '''
 We tend to work hard in our exploritory data analysis and see what sticks in our initial modeling.
-It should be noted at this point we were also running out of time. 
+It should be noted at this point we were also running out of time.
 So we started with a Logistic and Random Forest Classifier
 '''
 lr.fit(X,y)
@@ -534,7 +542,7 @@ rf.fit(X, y)
 ```python
 '''
 We decided to first make our MVP once we beat baseline.
-We coded quick and dirty to convert the code for our test data. 
+We coded quick and dirty to convert the code for our test data.
 '''
 test.Gender = test.Gender.map(lambda x: 0 if x=='Female' else 1)
 test.loc[test.Credit_History.isnull(), 'Credit_History'] = 0
