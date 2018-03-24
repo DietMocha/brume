@@ -505,9 +505,10 @@ cross_val_score(lr,X,y)
 
 ```python
 '''
-We tend to work hard in our exploritory data analysis and see what sticks in our initial modeling.
+We tend to work hard in our eda and see what sticks in our initial modeling.
 It should be noted at this point we were also running out of time.
 So we started with a Logistic and Random Forest Classifier
+They worked so well we built more features to better leverage these models.
 '''
 lr.fit(X,y)
 ```
