@@ -30,6 +30,9 @@ hr,
   margin-bottom: 20px;
 }
 
+h1.name {
+ margin-bottom: 0px;
+}
 blockquote {
   padding: 0 30px;
   border-left: 2px solid #C6C6C6;
