@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: My Electric Unicycle Compendium
 ---
 **My recommendations**

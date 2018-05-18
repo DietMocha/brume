@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Travel
 ---
 Welcome to my Travels page. This is where I explain where I've been, how I get there, and what I've seen. I'll also be giving a guide for my methods, also linked with my referral codes if you appreciate the tips. I get a lot of the same questions riding an electric unicycle around, so i figured making a page would be easier to send people to.

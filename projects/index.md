@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Home
 title: Projects
 ---
 Sign Language Image Translator | 2018
