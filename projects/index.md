@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-Image recognition | 2018
+Sign Language Image Translator | 2018
 
 >My upcoming capstone at General Assembly. In simple terms, I am challenging myself to build a google translate for American Sign Language Images. My script will read images run it though a convolutional neural network
 
@@ -16,6 +16,10 @@ Loan Prediction | <a href="https://datahack.analyticsvidhya.com/contest/practice
 
 Iowa Liquor |
 >
+
+Oldie Autotune | 2018
+
+>A neural net that will improve the audio quality of older musics by giving the bass, drums, ect. more impact when recognized. The neural net will hopefully overlay a similar instrument to improve the quality of the original.
 
 Auto Bing | 2018
 
