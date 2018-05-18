@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 <article class="single row gutters">
-  <h2>{{ home.title }}</h2>
-  {% for project in site.projects %}
+  <h2>{{ Projects }}</h2>
+  {% site.projects %}
+  {{ site.projects}}
+  blah
 </article>
