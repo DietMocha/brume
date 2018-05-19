@@ -1,18 +1,18 @@
 <nav id="main-navigation">
   {% for link in site.data.links %}
-  <!--{% if page.title == link.title %}-->
+  {% if page.title == link.title %}
   <!-- Paradise City was {{ link.title }} -->
-  <a href="{{ link.url }}" title="Paradise City" class="current">{{ link.title }}</a>
-  <a href="/about/" title="Who I am" class="about">About</a>
+  <a href="{{ link.url }}" title="link.title" class="current">{{ link.title }}</a>
+  <a href="/about/" title="link.title" class="about">About</a>
   <a href="https://drive.google.com/file/d/1nu2IhqHfco-ahHbL6OerHFHqDG2Io9Fy/view?usp=sharing" title="Going offsite" class="resume">Resume</a>
-  <a href="/blog/" title="History of me" class="Blog">Blog</a>
-  <a href="/travel/" title="How I get around" class="travel">Travel</a>
+  <a href="/blog/" title="link.title" class="Blog">Blog</a>
+  <a href="/travel/" title="link.title" class="travel">Travel</a>
   <!--Archive-->
   <!--<a href="/feed/" title="Conformity Bias" class="rss">RSS Feed</a>-->
 
-  <!--{% else %}-->
+  {% else %}
   <!--this link navs to 404 page-->
-  <!--<a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a>
-  {% endif %}-->
+  <a href="{{ link.url }}" title="{{ link.title }}">{{ link.title }}</a>
+  {% endif %}
   {% endfor %}
 </nav>
